@@ -1,0 +1,30 @@
+mes = 'Janeiro'
+
+case mes
+when "Janeiro"
+    puts "Janeiro tem 31 dias"
+when "Fevereiro"
+    puts "Fevereiro tem 28 dias"
+when "Março"
+    puts "Março tem 31 dias"
+when "Abril"
+    puts "Abril tem 30 dias"
+when "Maio"
+    puts "Maio tem 31 dias"
+when "Junho"
+    puts "Junho tem 30 dias"
+when "Julho"
+    puts "Julho tem 31 dias"
+when "Agosto"
+    puts "Agosto tem 31 dias"
+when "Setembro"
+    puts "Setembro tem 30 dias"
+when "Outubro"
+    puts "Outubro tem 31 dias"
+when "Novembro"
+    puts "Novembro tem 30 dias"
+when "Dezembro"
+    puts "Dezembro tem 31 dias"
+else
+    puts "Esse mês não existe, ou verifique se a primeira letra esta em maiuscula, tente novamente"
+end
