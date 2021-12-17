@@ -1,6 +1,4 @@
-
 nome = "Léo"
-
 idade = 25
 
 puts "Olá #{nome}"
