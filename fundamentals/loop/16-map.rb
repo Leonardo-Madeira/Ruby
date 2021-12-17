@@ -1,6 +1,5 @@
 nomes = ['Leo', 'Dayane', 'Maria','Joao', 'José', 'Fulano']
 
-
 nomes_completo = nomes.map do |key|
     key + " Sobrenome"
 end
