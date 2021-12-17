@@ -5,7 +5,6 @@ nomes = ['Leo', 'Dayane', 'Maria','Joao', 'José', 'Fulano']
 nomes.each do |key| # Vai printar todas as keys que tem em nomes
     puts key
 end
-
 puts "\n"
 
 user.each do |keys, value|
