@@ -10,14 +10,10 @@ hash.delete(:peso) #deletou um elemento
 
 puts ''
 puts hash.has_key?(:idade) #Verifica se existe uma variavel com o nome idade e retorna um boolean
-
 puts ''
 puts hash.keys # Verifica todas as chaves que tem no objeto
-
 puts ''
 puts hash.values #Verifica apenas os valores das chaves
-
 puts ''
-
 puts hash.size # quantas chaves existem e retornar um valor numerico 
 puts ''
